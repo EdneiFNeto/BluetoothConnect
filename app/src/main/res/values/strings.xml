@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothConnection</string>
+    <string name="active">Bluetooth is active</string>
+    <string name="search_device">Search device</string>
+</resources>
